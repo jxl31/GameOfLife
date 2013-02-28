@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife\GameOfLife.csproj", "{9CB418C5-7CBD-4E40-85DC-0608C7357868}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameOfLifeContent", "GameOfLife\GameOfLifeContent\GameOfLifeContent.contentproj", "{FD61468E-153F-4A6D-9781-2696B750B776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CB418C5-7CBD-4E40-85DC-0608C7357868}.Debug|x86.ActiveCfg = Debug|x86
+		{9CB418C5-7CBD-4E40-85DC-0608C7357868}.Debug|x86.Build.0 = Debug|x86
+		{9CB418C5-7CBD-4E40-85DC-0608C7357868}.Release|x86.ActiveCfg = Release|x86
+		{9CB418C5-7CBD-4E40-85DC-0608C7357868}.Release|x86.Build.0 = Release|x86
+		{FD61468E-153F-4A6D-9781-2696B750B776}.Debug|x86.ActiveCfg = Debug|x86
+		{FD61468E-153F-4A6D-9781-2696B750B776}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
